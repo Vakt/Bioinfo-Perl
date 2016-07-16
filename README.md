@@ -1,2 +1,3 @@
-# Bioinfo-Perl
+# Bioinformatics-Perl
 simple perl scripts for public bioinformatic usage
+more or less for testing...
