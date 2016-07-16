@@ -14,7 +14,7 @@ if (not $fasta_file){
 	exit;
 }
 
-my $fa_hash_file= "$fasta_file.hash";
+my $fa_hash_file= "$fasta_file.hash"; # name of hash file after progress 
 my %fa_hash;
 my $fa_header;
 open(FA,"<",$fasta_file) or die "$fasta_file not found!\n";
